@@ -27,8 +27,8 @@ A collection of research papers, open-source projects, and companies focused on 
 |-----------|---------|-------------|
 | [**Scale AI**](https://scale.com) | Data Labeling | Enterprise-grade data labeling and management services. |
 | [**Labelbox**](https://labelbox.com) | Data Labeling | A SaaS-based labeling and governance platform supporting human-in-the-loop and active learning. |
-| [**Hyperscience**](https://www.hyperscience.com) | Document Intelligence | Automates enterprise document processing using OCR and NLP, widely used in finance and government. |
-| [**Rossum**](https://rossum.ai) | Document Intelligence | Cloud-native document automation platform powered by proprietary LLMs; 2024 revenue ≈ $44.9M. |
+| [**Hyperscience**](https://www.hyperscience.com) | Document Intelligence | Automates enterprise document processing using OCR and NLP. |
+| [**Rossum**](https://rossum.ai) | Document Intelligence | Cloud-native document automation platform powered by proprietary LLMs. |
 | [**Docsumo**](https://www.docsumo.com) | Document Intelligence | Extracts tables, fields, and structured data from PDFs and scanned documents. |
 | [**YData**](https://ydata.ai) | Synthetic Data | Offers synthetic data generation and data governance tools for privacy and data scarcity challenges. |
 | [**Atlan**](https://atlan.com) | Data Governance | Unified data collaboration and catalog platform for metadata and asset management. |
