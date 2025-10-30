@@ -9,7 +9,7 @@ A collection of research papers, open-source projects, and companies focused on 
 | [DBMS-LLM Integration Strategies in Industrial and Business Applications: Current Status and Future Challenges](https://www.arxiv.org/abs/2507.19254) | 2025| ArXiv |
 
 ## 📚 Research Papers
-| Title | Year | Venue | Domain |
+| Title | Year | Venue | Research Problems |
 |----------------------------|------|-----|-----|
 | [Doc-Researcher: A Unified System for Multimodal Document Parsing and Deep Research](http://arxiv.org/abs/2510.21603) | 2025 | arXiv | Document Intelligence |
 | [Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration](http://arxiv.org/abs/2410.08102) | 2025 | arXiv | Data Selection |
