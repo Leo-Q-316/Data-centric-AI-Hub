@@ -1,14 +1,19 @@
 # Data Engineering for Artificial Intelligence Hub
 A collection of research papers, open-source projects, and companies focused on Data Engineering for AI (DE4AI).
 
-## 📚 Research Papers
+## 📚 Survey Papers
 | Title | Year | Venue |
 |----------------------------|------|-----|
 | [Data-centric Artificial Intelligence: A Survey](https://arxiv.org/abs/2303.10158) | 2023 | arXiv |
 | [Automated Data Preparation for Machine Learning: a Survey](https://automl.space/automated-data-preparation-for-machine-learning/) | 2025 | AutoML 2025 |
 | [DBMS-LLM Integration Strategies in Industrial and Business Applications: Current Status and Future Challenges](https://www.arxiv.org/abs/2507.19254) | 2025| ArXiv |
 
-
+## 📚 Research Papers
+| Title | Year | Venue | Domain |
+|----------------------------|------|-----|-----|
+| [Doc-Researcher: A Unified System for Multimodal Document Parsing and Deep Research](http://arxiv.org/abs/2510.21603) | 2025 | arXiv | Document Intelligence |
+| [Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration](http://arxiv.org/abs/2410.08102) | 2025 | arXiv | Data Selection |
+| [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](http://arxiv.org/abs/2510.16872) | 2025 | arXiv | Autonomous data science |
 ---
 
 
@@ -17,7 +22,7 @@ A collection of research papers, open-source projects, and companies focused on 
 | Project | Type | Description |
 |----------------|------|-------------|
 | [DataFlow](https://github.com/OpenDCAI/DataFlow) | Data Engineering | Data Preparation with latest LLMs-based Operators and Pipelines. |
-
+| [DataAyalyze](https://github.com/ruc-datalab/DeepAnalyze) | Autonomous data science | The first agentic LLM for autonomous data science. |
 
 ---
 
