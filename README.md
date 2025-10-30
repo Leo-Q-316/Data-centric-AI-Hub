@@ -1,24 +1,14 @@
 # Data Engineering for Artificial Intelligence Hub
 A collection of research papers, open-source projects, and companies focused on Data Engineering for AI (DE4AI).
 
-## 📚 Survey Papers
-
-| Title | Year | Focus |
-|----------------------------|------|--------|
-| [Data-Centric AI: The Next Frontier](https://landing.ai/data-centric-ai/) | 2021 | Introduces the concept of Data-Centric AI and calls for systematic improvement of data quality. |
-| [A Survey on Data-Centric AI: From Data Engineering to Responsible AI](https://arxiv.org/abs/2309.10160) | 2023 | Comprehensive survey covering data quality, data governance, and human-in-the-loop data curation. |
+## 📚 Research Papers
+| Title | Year |
+|----------------------------|------|
+| [Data-Centric AI: The Next Frontier](https://landing.ai/data-centric-ai/) | 2021 |
+| [Taiji: MCP-based Multi-Modal Data Analytics on Data Lakes](https://arxiv.org/abs/2410.06661) | 2024 |
+| [DBMS-LLM Integration Strategies in Industrial and Business Applications](https://arxiv.org/abs/2406.08022) | 2024 |
 
 ---
-
-## 🔬 Research Papers
-
-| Title | Year | Problem Area (in Data Engineering) | Description |
-|----------------------------|------|---------------------------------------------|-------------|
-| [Taiji: MCP-based Multi-Modal Data Analytics on Data Lakes](https://arxiv.org/abs/2410.06661) | 2024 | **Multi-modal data integration / analytics** | Proposes a model coordination protocol (MCP) for unifying analytics across structured, semi-structured, and unstructured data in data lakes. |
-| [DBMS-LLM Integration Strategies in Industrial and Business Applications](https://arxiv.org/abs/2406.08022) | 2024 | **Data–LLM interface / query automation** | Explores architectural strategies for combining LLMs with database management systems for intelligent data access and decision support. |
-| [DataPerf: Benchmarking Data-Centric AI](https://arxiv.org/abs/2207.13088) | 2022 | **Data quality benchmarking** | Introduces standardized benchmarks for evaluating the quality of data-centric AI pipelines. |
-| [Cleanlab: Learning with Noisy Labels](https://arxiv.org/abs/2001.10528) | 2020 | **Data cleaning / label noise detection** | Proposes statistical methods for identifying and correcting mislabeled samples in datasets. |
-| [Data Shapley: Equitable Valuation of Data for Machine Learning](https://arxiv.org/abs/1904.02868) | 2019 | **Data valuation / contribution analysis** | Defines a fair metric for evaluating each data point’s importance to model performance using Shapley values. |
 
 
 ## 🧩 Open-Source Projects
