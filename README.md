@@ -6,7 +6,6 @@ A collection of research papers, open-source projects, and companies focused on 
 |----------------------------|------|
 | [Data-Centric AI: The Next Frontier](https://landing.ai/data-centric-ai/) | 2021 |
 | [Taiji: MCP-based Multi-Modal Data Analytics on Data Lakes](https://arxiv.org/abs/2410.06661) | 2024 |
-| [DBMS-LLM Integration Strategies in Industrial and Business Applications](https://arxiv.org/abs/2406.08022) | 2024 |
 
 ---
 
