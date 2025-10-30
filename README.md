@@ -4,7 +4,7 @@ A collection of research papers, open-source projects, and companies focused on 
 ## 📚 Research Papers
 | Title | Year | Venue |
 |----------------------------|------|-----|
-| [Data-Centric AI: The Next Frontier](https://landing.ai/data-centric-ai/) | 2021 | arXiv |
+| [Data-centric Artificial Intelligence: A Survey](https://arxiv.org/abs/2303.10158) | 2023 | arXiv |
 | [Automated Data Preparation for Machine Learning: a Survey](https://automl.space/automated-data-preparation-for-machine-learning/) | 2025 | AutoML 2025 |
 | [DBMS-LLM Integration Strategies in Industrial and Business Applications: Current Status and Future Challenges](https://www.arxiv.org/abs/2507.19254) | 2025| ArXiv |
 
