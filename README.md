@@ -33,7 +33,7 @@ A collection of research papers, open-source projects, and companies focused on 
 | [Prioritize Alignment in Dataset Distillation](https://arxiv.org/abs/2408.03360) | 2024 | arXiv | Data distillation | [Code](https://github.com/NUS-HPC-AI-Lab/PAD) |
 | [Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic](https://arxiv.org/abs/2404.07177) | 2024 | CVPR | Data selection |[Code](https://github.com/locuslab/scaling_laws_data_filtering) |
 | [QuRating: Selecting High-Quality Data for Training Language Models](https://arxiv.org/abs/2402.09739) | 2024 | ICML | Data selection | [Code](https://github.com/princeton-nlp/QuRating) |
-| [Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs](https://arxiv.org/abs/2510.13795) | 2025 | arXiv | Data clearning |
+| [Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs](https://arxiv.org/abs/2510.13795) | 2025 | arXiv | Data cleaning |
 ---
 
 
